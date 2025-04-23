@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35731.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cadastrodefuncionaria", "cadastrodefuncionaria.csproj", "{161E322B-9547-45FF-A511-6D70DC51448E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cadastrodeatividades", "..\cadastrodeatividades\cadastrodeatividades.csproj", "{D978FEE2-84C9-4563-A105-DB3ACC42706E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "telaatividades", "..\telaatividades\telaatividades.csproj", "{51EFC9EC-DD92-48C2-97C2-6B74CEF26B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teladelogin", "..\teladelogin\teladelogin.csproj", "{F8457C1B-5915-4143-A4DA-5402F6561F86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{161E322B-9547-45FF-A511-6D70DC51448E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161E322B-9547-45FF-A511-6D70DC51448E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161E322B-9547-45FF-A511-6D70DC51448E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{161E322B-9547-45FF-A511-6D70DC51448E}.Debug|x64.Build.0 = Debug|Any CPU
+		{161E322B-9547-45FF-A511-6D70DC51448E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161E322B-9547-45FF-A511-6D70DC51448E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161E322B-9547-45FF-A511-6D70DC51448E}.Release|x64.ActiveCfg = Release|Any CPU
+		{161E322B-9547-45FF-A511-6D70DC51448E}.Release|x64.Build.0 = Release|Any CPU
+		{D978FEE2-84C9-4563-A105-DB3ACC42706E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D978FEE2-84C9-4563-A105-DB3ACC42706E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D978FEE2-84C9-4563-A105-DB3ACC42706E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D978FEE2-84C9-4563-A105-DB3ACC42706E}.Debug|x64.Build.0 = Debug|Any CPU
+		{D978FEE2-84C9-4563-A105-DB3ACC42706E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D978FEE2-84C9-4563-A105-DB3ACC42706E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D978FEE2-84C9-4563-A105-DB3ACC42706E}.Release|x64.ActiveCfg = Release|x64
+		{D978FEE2-84C9-4563-A105-DB3ACC42706E}.Release|x64.Build.0 = Release|x64
+		{51EFC9EC-DD92-48C2-97C2-6B74CEF26B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EFC9EC-DD92-48C2-97C2-6B74CEF26B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EFC9EC-DD92-48C2-97C2-6B74CEF26B30}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{51EFC9EC-DD92-48C2-97C2-6B74CEF26B30}.Debug|x64.Build.0 = Debug|Any CPU
+		{51EFC9EC-DD92-48C2-97C2-6B74CEF26B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EFC9EC-DD92-48C2-97C2-6B74CEF26B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51EFC9EC-DD92-48C2-97C2-6B74CEF26B30}.Release|x64.ActiveCfg = Release|Any CPU
+		{51EFC9EC-DD92-48C2-97C2-6B74CEF26B30}.Release|x64.Build.0 = Release|Any CPU
+		{F8457C1B-5915-4143-A4DA-5402F6561F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8457C1B-5915-4143-A4DA-5402F6561F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8457C1B-5915-4143-A4DA-5402F6561F86}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F8457C1B-5915-4143-A4DA-5402F6561F86}.Debug|x64.Build.0 = Debug|Any CPU
+		{F8457C1B-5915-4143-A4DA-5402F6561F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8457C1B-5915-4143-A4DA-5402F6561F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8457C1B-5915-4143-A4DA-5402F6561F86}.Release|x64.ActiveCfg = Release|Any CPU
+		{F8457C1B-5915-4143-A4DA-5402F6561F86}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37AA1BBD-B056-42C7-A234-EA8570A6892E}
+	EndGlobalSection
+EndGlobal

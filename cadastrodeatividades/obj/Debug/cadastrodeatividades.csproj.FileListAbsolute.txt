@@ -1,0 +1,87 @@
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\cadastrodeatividades.exe.config
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\cadastrodeatividades.exe
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\cadastrodeatividades.pdb
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\Google.Protobuf.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\MySql.Data.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Buffers.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Memory.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\ZstdSharp.dll
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\Google.Protobuf.pdb
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\Google.Protobuf.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\MySql.Data.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Buffers.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Memory.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.csproj.AssemblyReference.cache
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.frmCadastrodeAtividades.resources
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.Properties.Resources.resources
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.csproj.GenerateResource.cache
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.csproj.CoreCompileInputs.cache
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastro.425D6D13.Up2Date
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.exe
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.pdb
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\cadastrodeatividades.exe.config
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\cadastrodeatividades.exe
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\cadastrodeatividades.pdb
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\Google.Protobuf.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\MySql.Data.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Buffers.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.IO.Pipelines.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Memory.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\ZstdSharp.dll
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\Google.Protobuf.pdb
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\Google.Protobuf.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\MySql.Data.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Buffers.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.IO.Pipelines.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Memory.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.csproj.AssemblyReference.cache
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.frmCadastrodeAtividades.resources
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.Properties.Resources.resources
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.csproj.GenerateResource.cache
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.csproj.CopyComplete
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.exe
+C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.pdb
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\cadastrodeatividades\obj\Debug\cadastrodeatividades.Form1.resources
