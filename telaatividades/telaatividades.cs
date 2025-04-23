@@ -200,57 +200,67 @@ namespace telaatividades
             try
 
             {
-                if (lstAtividades.SelectedItems.Count > 0) // Verifica se há uma linha selecionada
-                {
+
+                    if (lstAtividades.SelectedItems.Count > 0) // Verifica se há uma linha selecionada
+                    {
+
 
                     // Obtendo os dados da atividade selecionada
                     string codigo = lstAtividades.SelectedItems[0].SubItems[0].Text;
                     string status = lstAtividades.SelectedItems[0].SubItems[5].Text;
                     string situacao = "Finalizado";
 
-                    // cria a conexão com o banco de dados
+                    DialogResult opcaoDigitada = MessageBox.Show("Tem certeza que deseja alterar o status com o código: " + codigo + ", para Finalizado?",
+                                            "Tem certeza?",
+                                            MessageBoxButtons.YesNo,
+                                            MessageBoxIcon.Warning);
 
-                    Conexao = new MySqlConnection(data_source);
-
-                    Conexao.Open();
-
-                    // Comando SQL para inserir um novo cliente no banco de dados
-
-                    MySqlCommand cmd = new MySqlCommand
+                    if (opcaoDigitada == DialogResult.Yes)
                     {
+                        // cria a conexão com o banco de dados
 
-                        Connection = Conexao
+                        Conexao = new MySqlConnection(data_source);
 
-                    };
+                        Conexao.Open();
 
-                    cmd.Prepare();
+                        // Comando SQL para inserir um novo cliente no banco de dados
 
-                    //Update 
+                        MySqlCommand cmd = new MySqlCommand
+                        {
 
-                    cmd.CommandText = $"UPDATE `tarefa` SET " +
+                            Connection = Conexao
 
-                        $"situacao = @situacao " +
+                        };
 
-                        $"WHERE id = @codigo";
+                        cmd.Prepare();
 
-                    cmd.Parameters.AddWithValue("@codigo", codigo);
+                        //Update 
 
-                    cmd.Parameters.AddWithValue("@situacao", situacao);
+                        cmd.CommandText = $"UPDATE `tarefa` SET " +
 
-                    // Set na situacao = finalizado
+                            $"situacao = @situacao " +
 
-                    // where codigo =
-                    cmd.ExecuteNonQuery();
+                            $"WHERE id = @codigo";
 
-                    //Mensagem de sucesso
+                        cmd.Parameters.AddWithValue("@codigo", codigo);
 
-                    MessageBox.Show($"O status com o código {codigo} foi alterado com Sucesso!",
+                        cmd.Parameters.AddWithValue("@situacao", situacao);
 
-                        "Sucesso",
+                        // Set na situacao = finalizado
 
-                        MessageBoxButtons.OK,
+                        // where codigo =
+                        cmd.ExecuteNonQuery();
 
-                        MessageBoxIcon.Information);
+                        //Mensagem de sucesso
+
+                        MessageBox.Show($"O status com o código {codigo} foi alterado com Sucesso!",
+
+                            "Sucesso",
+
+                            MessageBoxButtons.OK,
+
+                            MessageBoxIcon.Information);
+                    }
 
                     carregar_atividades();
 
@@ -309,6 +319,84 @@ namespace telaatividades
 
             }
 
+        }
+
+        private void btnExcluir_Click(object sender, EventArgs e)
+        {
+            excluir_atividades();
+        }
+
+        private void excluir_atividades()
+        {
+            try
+            {
+
+                if (lstAtividades.SelectedItems.Count > 0) // Verifica se há uma linha selecionada
+                {
+
+                    // Obtendo os dados da atividade selecionada
+                    string codigo = lstAtividades.SelectedItems[0].SubItems[0].Text;
+
+                    DialogResult opcaoDigitada = MessageBox.Show("Tem certeza que deseja excluir o registro " + codigo,
+                                                             "Tem certeza?",
+                                                             MessageBoxButtons.YesNo,
+                                                             MessageBoxIcon.Warning);
+
+                    if (opcaoDigitada == DialogResult.Yes)
+                    {
+                        //Excluir os dados no Banco de Dados
+
+                        Conexao = new MySqlConnection(data_source);
+                        Conexao.Open();
+
+                        MySqlCommand cmd = new MySqlCommand();
+
+                        cmd.Connection = Conexao;
+
+                        cmd.Prepare();
+
+                        cmd.CommandText = "DELETE FROM tarefa WHERE id = @codigo";
+
+                        cmd.Parameters.AddWithValue("@codigo", codigo);
+
+                        cmd.ExecuteNonQuery();
+
+                        MessageBox.Show("Os dados do cliente foram EXCLUÍDOS!",
+                                        "Sucesso",
+                                        MessageBoxButtons.OK,
+                                        MessageBoxIcon.Information);
+                    }
+
+                }
+
+                carregar_atividades();
+            }
+            catch (MySqlException ex)
+            {
+                //Trata erros relacionados ao MySQL
+                MessageBox.Show("Erro " + ex.Number + " ocorreu: " + ex.Message,
+                    "Erro",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Error);
+            }
+            catch (Exception ex)
+            {
+
+                //Trata outros tipos de erro
+                MessageBox.Show("Ocorreu: " + ex.Message,
+                    "Erro",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Error);
+
+            }
+            finally
+            {
+                //Garante que a conexão com o banco de dados será fechada, mesmo se ocorrer erro
+                if (Conexao != null && Conexao.State == ConnectionState.Open)
+                {
+                    Conexao.Close();
+                }
+            }
         }
     }
 }

@@ -40,7 +40,6 @@ C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Bibliotec
 C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\telaatividades\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\telaatividades\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\telaatividades\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\telaatividades\obj\Debug\telaativ.6FF1DE9A.Up2Date
 C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\telaatividades\bin\Debug\cadastrodeatividades.exe
 C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\telaatividades\bin\Debug\cadastrodeatividades.pdb
 C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\telaatividades\bin\Debug\cadastrodeatividades.exe.config
@@ -90,3 +89,4 @@ C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac
 C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\telaatividades\obj\Debug\telaatividades.csproj.CopyComplete
 C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\telaatividades\obj\Debug\telaatividades.exe
 C:\Users\leonardo.goliveira15\Downloads\Sistema de Tarefas - Biblioteca do Senac\telaatividades\obj\Debug\telaatividades.pdb
+C:\Users\ana.bgsantos10\source\Sistema Biblioteca\Sistema de Tarefas - Biblioteca do Senac\telaatividades\obj\Debug\telaatividades.csproj.CopyComplete
