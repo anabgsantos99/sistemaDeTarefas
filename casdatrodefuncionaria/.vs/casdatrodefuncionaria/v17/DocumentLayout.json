@@ -6,7 +6,17 @@
       "AbsoluteMoniker": "D:0:0:{F8457C1B-5915-4143-A4DA-5402F6561F86}|..\\teladelogin\\teladelogin.csproj|c:\\users\\ana.bgsantos10\\source\\sistema biblioteca\\sistema de tarefas - biblioteca do senac\\teladelogin\\teladelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{51EFC9EC-DD92-48C2-97C2-6B74CEF26B30}|..\\telaatividades\\telaatividades.csproj|c:\\users\\ana.bgsantos10\\source\\sistema biblioteca\\sistema de tarefas - biblioteca do senac\\telaatividades\\telaatividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D978FEE2-84C9-4563-A105-DB3ACC42706E}|..\\cadastrodeatividades\\cadastrodeatividades.csproj|c:\\users\\ana.bgsantos10\\source\\sistema biblioteca\\sistema de tarefas - biblioteca do senac\\cadastrodeatividades\\cadastrodeatividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161E322B-9547-45FF-A511-6D70DC51448E}|cadastrodefuncionaria.csproj|c:\\users\\ana.bgsantos10\\source\\sistema biblioteca\\sistema de tarefas - biblioteca do senac\\casdatrodefuncionaria\\cadastrodefuncionaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{161E322B-9547-45FF-A511-6D70DC51448E}|cadastrodefuncionaria.csproj|solutionrelative:cadastrodefuncionaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\cadastrodeatividades\\cadastrodefuncionaria.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D978FEE2-84C9-4563-A105-DB3ACC42706E}|..\\cadastrodeatividades\\cadastrodeatividades.csproj|c:\\users\\ana.bgsantos10\\source\\sistema biblioteca\\sistema de tarefas - biblioteca do senac\\cadastrodeatividades\\cadastrodeatividades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -19,9 +29,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ana.bgsantos10\\Downloads\\Sistema de Tarefas - Biblioteca do Senac\\teladelogin\\teladelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51EFC9EC-DD92-48C2-97C2-6B74CEF26B30}|..\\telaatividades\\telaatividades.csproj|c:\\users\\ana.bgsantos10\\source\\sistema biblioteca\\sistema de tarefas - biblioteca do senac\\telaatividades\\telaatividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{161E322B-9547-45FF-A511-6D70DC51448E}|cadastrodefuncionaria.csproj|C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\casdatrodefuncionaria\\cadastrodefuncionaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +45,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "telaatividades.cs",
               "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\telaatividades\\telaatividades.cs",
               "RelativeDocumentMoniker": "..\\telaatividades\\telaatividades.cs",
@@ -51,11 +58,12 @@
               "ViewState": "AgIAAN8AAAAAAAAAAAAmwOYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T19:48:56.753Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "cadastrodeatividades.cs",
               "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\cadastrodeatividades\\cadastrodeatividades.cs",
               "RelativeDocumentMoniker": "..\\cadastrodeatividades\\cadastrodeatividades.cs",
@@ -64,19 +72,44 @@
               "ViewState": "AgIAAHAAAAAAAAAAAAAcwNUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T18:22:16.675Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cadastrodefuncionaria.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\casdatrodefuncionaria\\cadastrodefuncionaria.cs",
+              "RelativeDocumentMoniker": "cadastrodefuncionaria.cs",
+              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\casdatrodefuncionaria\\cadastrodefuncionaria.cs [Design]",
+              "RelativeToolTip": "cadastrodefuncionaria.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:53:28.376Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "cadastrodeatividades.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\cadastrodeatividades\\cadastrodeatividades.Designer.cs",
-              "RelativeDocumentMoniker": "..\\cadastrodeatividades\\cadastrodeatividades.Designer.cs",
-              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\cadastrodeatividades\\cadastrodeatividades.Designer.cs",
-              "RelativeToolTip": "..\\cadastrodeatividades\\cadastrodeatividades.Designer.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDEAAAA4AAAAAAAAAA==",
+              "Title": "cadastrodeatividades.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\cadastrodeatividades\\cadastrodeatividades.cs",
+              "RelativeDocumentMoniker": "..\\cadastrodeatividades\\cadastrodeatividades.cs",
+              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\cadastrodeatividades\\cadastrodeatividades.cs [Design]",
+              "RelativeToolTip": "..\\cadastrodeatividades\\cadastrodeatividades.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T17:46:26.175Z"
+              "WhenOpened": "2025-04-16T19:25:18.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "telaatividades.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\telaatividades\\telaatividades.cs",
+              "RelativeDocumentMoniker": "..\\telaatividades\\telaatividades.cs",
+              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\telaatividades\\telaatividades.cs [Design]",
+              "RelativeToolTip": "..\\telaatividades\\telaatividades.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:56:35.214Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -92,18 +125,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "cadastrodeatividades.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\cadastrodeatividades\\cadastrodeatividades.cs",
-              "RelativeDocumentMoniker": "..\\cadastrodeatividades\\cadastrodeatividades.cs",
-              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\cadastrodeatividades\\cadastrodeatividades.cs [Design]",
-              "RelativeToolTip": "..\\cadastrodeatividades\\cadastrodeatividades.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "cadastrodefuncionaria.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\cadastrodeatividades\\cadastrodefuncionaria.Designer.cs",
+              "RelativeDocumentMoniker": "..\\cadastrodeatividades\\cadastrodefuncionaria.Designer.cs",
+              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\cadastrodeatividades\\cadastrodefuncionaria.Designer.cs",
+              "RelativeToolTip": "..\\cadastrodeatividades\\cadastrodefuncionaria.Designer.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T19:25:18.871Z"
+              "WhenOpened": "2025-04-24T17:25:21.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "cadastrodeatividades.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\cadastrodeatividades\\cadastrodeatividades.Designer.cs",
+              "RelativeDocumentMoniker": "..\\cadastrodeatividades\\cadastrodeatividades.Designer.cs",
+              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\cadastrodeatividades\\cadastrodeatividades.Designer.cs",
+              "RelativeToolTip": "..\\cadastrodeatividades\\cadastrodeatividades.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:46:26.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\cadastrodeatividades\\Program.cs",
               "RelativeDocumentMoniker": "..\\cadastrodeatividades\\Program.cs",
@@ -115,18 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "telaatividades.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\telaatividades\\telaatividades.cs",
-              "RelativeDocumentMoniker": "..\\telaatividades\\telaatividades.cs",
-              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\telaatividades\\telaatividades.cs [Design]",
-              "RelativeToolTip": "..\\telaatividades\\telaatividades.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T18:56:35.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "cadastrodefuncionaria.cs",
               "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\Sistema Biblioteca\\Sistema de Tarefas - Biblioteca do Senac\\casdatrodefuncionaria\\cadastrodefuncionaria.cs",
               "RelativeDocumentMoniker": "cadastrodefuncionaria.cs",
@@ -134,11 +169,12 @@
               "RelativeToolTip": "cadastrodefuncionaria.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAswJIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T20:13:34.69Z"
+              "WhenOpened": "2025-04-14T20:13:34.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "teladelogin.cs",
               "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\Downloads\\Sistema de Tarefas - Biblioteca do Senac\\teladelogin\\teladelogin.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Sistema de Tarefas - Biblioteca do Senac\\teladelogin\\teladelogin.cs",
